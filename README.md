@@ -1,5 +1,6 @@
-/* A terminal-based slot machine simulator built with Python. This project allows users to deposit money, bet on multiple lines, and spin a slot machine. 
-  The game checks for winning lines and calculates payouts based on the symbol values. *\
+A terminal-based slot machine simulator built with Python. This project allows users to deposit money, bet on multiple lines, and spin a slot machine. 
+  The game checks for winning lines and calculates payouts based on the symbol values.
+  ---
 
   
 #Users are prompted for deposits, bets, and to start spins.
